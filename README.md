@@ -50,4 +50,4 @@ SingLinkVPN, Windows VPN, VPN for Windows, fast VPN, secure VPN, stable VPN, VPN
 
 ## Preview
 
-[SingLinkVPN Windows Preview](https://pbs.twimg.com/media/HDCUReVboAAPC34?format=jpg&name=4096x4096) 
+<img width="1278" height="723" alt="2026-03-10 16 29 43" src="https://github.com/user-attachments/assets/2f28d7ce-b14d-448e-a51e-866c027d5b9d" />
